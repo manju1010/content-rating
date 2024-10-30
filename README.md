@@ -28,4 +28,4 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/content-rating.git
+   git clone https://github.com/manju1010/content-rating.git
